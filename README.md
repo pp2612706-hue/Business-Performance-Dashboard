@@ -1,47 +1,78 @@
-# Business-Performance-Dashboard
-Power BI Dashboard for Revenue and Business Analytics
 # Business Performance & Revenue Analytics Dashboard
 
-## Project Overview
-This project presents a Power BI dashboard that analyzes:
-- Revenue performance
-- Marketing spend
-- Units sold
-- Customer insights across different states
+A Power BI dashboard designed to analyze business performance, marketing efficiency, and customer behavior using data-driven insights.
+## Problem Statement
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-<img width="1781" height="892" alt="Screenshot 2026-04-05 200047" src="https://github.com/user-attachments/assets/1f28b446-a1e5-494d-993e-f976f574e7ea" />
+Businesses often struggle to track revenue performance, optimize marketing spend, and identify customer churn patterns. 
 
-## Key Metrics
-- Total Revenue: 535M
-- Units Sold: 512K
-- Marketing Spend: 55M
-- Unique Customers: 10
+This project aims to solve these challenges by providing an interactive dashboard that enables real-time analysis and decision-making.
+## Objective
 
-## Features
-- State-wise revenue analysis
-- Marketing ROI tracking
-- Customer insights
-- Interactive filters
+- Analyze revenue trends across different states  
+- Evaluate marketing effectiveness using ROI  
+- Identify factors affecting customer churn  
+- Provide actionable insights for business growth
+  ## Dashboard Preview
 
-## Tools Used
-- Power BI
-- Excel / CSV Dataset
-- Data Visualization
+![Dashboard Screenshot](<img width="1093" height="806" alt="Screenshot 2026-04-08 145438" src="https://github.com/user-attachments/assets/315dcc7d-1bf8-49fa-9272-e735da2c780b" />
+)
+## Dataset Description
 
-## Colab Notebook
-https://colab.research.google.com/drive/1CywptKJ9Adwo-t9D17AqkknSVz5Tv_rE?usp=sharing
+The dataset includes key business metrics such as:
 
-## Insights
-- Haryana and Maharashtra generate the highest revenue
-- Marketing ROI is moderate (126)
-- Some states need improvement in marketing efficiency
+- Revenue  
+- Units Sold  
+- Marketing Spend  
+- Marketing ROI  
+- Customer Count  
+- Predicted Churn  
+- Inventory Metrics  
+- State-wise Data  
 
-## Future Improvements
-- Add predictive analytics
-- AI-based recommendations
-- Real-time data integration
+This structured dataset enables multi-dimensional analysis of business performance.
+## Key Features
+
+- State-wise revenue analysis  
+- Marketing ROI evaluation  
+- Customer churn prediction using AI visuals  
+- Interactive filtering (state, decision recommendations)  
+- Geographical insights using map visualization  
+- KPI tracking for business performance
+  ## AI Insights
+
+The dashboard leverages Power BI AI visuals such as:
+
+- Key Influencers to identify factors affecting churn  
+- Decomposition Tree for root cause analysis  
+
+These features enable advanced analytics and predictive insights.
+## Key Insights
+
+- Revenue varies significantly across states, with top-performing regions driving overall growth  
+- Higher marketing spend does not always guarantee higher revenue  
+- Certain states show higher customer churn patterns  
+- Units sold has a strong impact on revenue generation  
+- Marketing ROI helps identify efficient vs inefficient campaigns
+  ## Tools & Technologies
+
+- Power BI  
+- Microsoft Excel / CSV  
+- Data Visualization Techniques  
+- DAX (Data Analysis Expressions)
+  ## Workflow
+
+1. Data Collection (CSV/Excel)  
+2. Data Cleaning & Transformation  
+3. Data Modeling in Power BI  
+4. DAX Calculations for KPIs  
+5. Dashboard Development  
+6. Insight Generation
+   ## Additional Resources
+
+- Colab Notebook: [View Here](https://colab.research.google.com/drive/1CywptKJ9Adwo-t9D17AqkknSVz5Tv_rE?usp=sharing)
+  ## Conclusion
+
+This dashboard transforms raw business data into actionable insights, enabling organizations to make data-driven decisions, improve marketing strategies, and reduce customer churn.
 
 ## Author
 Preeti
