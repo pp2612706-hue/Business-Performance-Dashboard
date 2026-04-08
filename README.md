@@ -14,8 +14,8 @@ This project aims to solve these challenges by providing an interactive dashboar
 - Provide actionable insights for business growth
   ## Dashboard Preview
 
-![Dashboard Screenshot](<img width="1093" height="806" alt="Screenshot 2026-04-08 145438" src="https://github.com/user-attachments/assets/315dcc7d-1bf8-49fa-9272-e735da2c780b" />
-)
+<img width="1093" height="806" alt="Screenshot 2026-04-08 145438" src="https://github.com/user-attachments/assets/7f4a3ea6-5665-4377-9f15-9e0fd7978a5e" />
+
 ## Dataset Description
 
 The dataset includes key business metrics such as:
@@ -69,7 +69,7 @@ These features enable advanced analytics and predictive insights.
 6. Insight Generation
    ## Additional Resources
 
-- Colab Notebook: [View Here](https://colab.research.google.com/drive/1CywptKJ9Adwo-t9D17AqkknSVz5Tv_rE?usp=sharing)
+- Colab Notebook: (https://colab.research.google.com/drive/1CywptKJ9Adwo-t9D17AqkknSVz5Tv_rE?usp=sharing)
   ## Conclusion
 
 This dashboard transforms raw business data into actionable insights, enabling organizations to make data-driven decisions, improve marketing strategies, and reduce customer churn.
